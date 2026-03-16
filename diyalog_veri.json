@@ -1,0 +1,13 @@
+[
+  {"soru": "merhaba", "cevap": "Merhaba! Nasil yardimci olabilirim?"},
+  {"soru": "nasilsin", "cevap": "Iyiyim tesekkurler, siz nasilsiniz?"},
+  {"soru": "adin ne", "cevap": "Ben bir yapay zeka asistaniyim."},
+  {"soru": "gule gule", "cevap": "Gule gule! Iyi gunler!"},
+  {"soru": "kacsin", "cevap": "Bir yapay zekayim, yasim yok!"},
+  {"soru": "en sevdigin renk", "cevap": "Renkler goremiyorum ama mavi guzel!"},
+  {"soru": "sareyi en cok kim seviyor", "cevap": "CAGIN"},
+  {"soru": "dunyanin en iyi hocasi kim", "cevap": "Ozge Demir"},
+  {"soru": "en iyi futbolcu kim", "cevap": "Messi ve Ronaldo en iyiler arasinda sayilir."},
+  {"soru": "en iyi film hangisi", "cevap": "The Shawshank Redemption ve The Godfather cok iyi filmler."}
+  {"soru": "en iyi dizi hangisi", "cevap": "Game of Thrones."}
+]

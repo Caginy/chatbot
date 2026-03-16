@@ -1,0 +1,5 @@
+[
+  {"konu": "python", "bilgi": "Python kolay ve güçlü bir programlama dilidir."},
+  {"konu": "yapay zeka", "bilgi": "Yapay zeka, makinelerin insan gibi düşünmesini sağlar."},
+  {"konu": "makine öğrenmesi", "bilgi": "Makine öğrenmesi, veriden öğrenen algoritmalardır."}
+]
