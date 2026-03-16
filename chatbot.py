@@ -16,7 +16,7 @@ class AsistanBeyni:
             self.api_key = "AIzaSyC4VjssfY4gucT3FlHDKhYbQu0MgJoOMy0" # Eğer Secrets kullanmıyorsan buraya yaz
             
         genai.configure(api_key=self.api_key)
-        self.gemini = genai.GenerativeModel('gemini-1.5-flash')
+        self.gemini = genai.GenerativeModel('gemini-1.5-flash-latest')
         
         self.hafiza = {}
         self.veriyi_yukle()
